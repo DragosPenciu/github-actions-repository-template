@@ -1,2 +1,3 @@
-# github-actions-repository-template
-github-actions-repository-template
+# Tic Tac Toe Game
+
+Learn GitHub Actions through a fun little game.
